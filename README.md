@@ -3,7 +3,7 @@ My first repository
 
 # My Favorite Movie: A Walk to Remember
 
-![A Walk to Remember](https://image.tmdb.org/t/p/w500/8lU6R7n1p9zW5s2Q0o5QjQfQ0s.jpg)
+# A Walk to Remember
 
 ## About the Movie
 
